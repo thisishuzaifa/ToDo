@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwipeCellKit",
+        "repositoryURL": "https://github.com/SwipeCellKit/SwipeCellKit",
+        "state": {
+          "branch": "develop",
+          "revision": "6d632bdf1b7309505566b0248a00f61b67415a37",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
